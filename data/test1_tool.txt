@@ -1,0 +1,37 @@
+At time 1703092733.638038863
+- Translation: [0.147, 0.467, 0.447]
+- Rotation: in Quaternion [-0.280, 0.650, 0.636, -0.308]
+- Rotation: in RPY (radian) [1.571, -0.045, -2.284]
+- Rotation: in RPY (degree) [90.013, -2.553, -130.851]
+- Matrix:
+At time 1703092920.909969088
+- Translation: [0.026, 0.643, 0.361]
+- Rotation: in Quaternion [-0.507, 0.737, 0.333, -0.299]
+- Rotation: in RPY (radian) [2.219, -0.103, -1.884]
+- Rotation: in RPY (degree) [127.142, -5.882, -107.970]
+At time 1703092976.227907405
+- Translation: [0.254, 0.685, 0.305]
+- Rotation: in Quaternion [0.055, 0.909, 0.405, 0.084]
+- Rotation: in RPY (radian) [2.295, 0.108, 2.973]
+- Rotation: in RPY (degree) [131.469, 6.187, 170.326]
+At time 1703093043.596039358
+- Translation: [0.446, 0.445, 0.365]
+- Rotation: in Quaternion [0.585, 0.670, 0.417, 0.188]
+- Rotation: in RPY (radian) [2.213, -0.239, 1.826]
+- Rotation: in RPY (degree) [126.820, -13.666, 104.610]
+At time 1703093121.821908265
+- Translation: [0.390, 0.337, 0.432]
+- Rotation: in Quaternion [0.776, 0.341, 0.304, 0.434]
+- Rotation: in RPY (radian) [2.031, -0.177, 0.938]
+- Rotation: in RPY (degree) [116.392, -10.136, 53.736]
+- Matrix:
+At time 1703093204.957955031
+- Translation: [0.002, 0.377, 0.328]
+- Rotation: in Quaternion [0.423, 0.242, 0.700, 0.523]
+- Rotation: in RPY (radian) [0.978, -0.345, 1.673]
+- Rotation: in RPY (degree) [56.060, -19.765, 95.864]
+At time 1703093266.289952134
+- Translation: [0.165, 0.473, 0.306]
+- Rotation: in Quaternion [0.607, 0.379, 0.406, 0.568]
+- Rotation: in RPY (radian) [1.595, -0.063, 1.177]
+- Rotation: in RPY (degree) [91.387, -3.626, 67.451]
