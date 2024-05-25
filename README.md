@@ -40,9 +40,6 @@ Calibration Function
 **Example:**
 
 `X_calc = EyeOnHand(E,S);` 
-
-`X_calc = EyeOnHand(E,S); % Debuge on the 4th Pair`
-
 `X_calc = EyeOnHand(E,S,'Pair_Method',3); % Use 3rd Pair Method` 
 
 
